@@ -1,6 +1,6 @@
 {
   "name": "@matbonnin/test",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Mini framework de test pour Deno (describe/test/expect/run).",
   "exports": {
     ".": "./mod.ts"
