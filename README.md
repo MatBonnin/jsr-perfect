@@ -1,6 +1,6 @@
 # @matbonnin/test
 
-Mini framework de test pour Deno avec `describe`, `test`, `expect` et `run`.
+Mini framework de test pour Deno avec `describe`, `test`, `expect` et `run`. :-)
 
 ## Installation
 
