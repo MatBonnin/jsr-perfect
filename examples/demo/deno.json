@@ -1,0 +1,8 @@
+{
+  "imports": {
+    "@matbonnin/test": "../../mod.ts"
+  },
+  "tasks": {
+    "start": "deno run main.ts"
+  }
+}

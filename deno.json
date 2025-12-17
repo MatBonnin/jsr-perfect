@@ -1,0 +1,21 @@
+{
+  "name": "@matbonnin/test",
+  "version": "1.0.0",
+  "description": "Mini framework de test pour Deno (describe/test/expect/run).",
+  "exports": {
+    ".": "./mod.ts"
+  },
+  "license": "MIT",
+  "keywords": ["test", "testing", "assertion", "deno"],
+  "publish": {
+    "include": ["mod.ts", "README.md", "LICENSE", "deno.json"]
+  },
+  "compilerOptions": {
+    "strict": true
+  },
+  "tasks": {
+    "test": "deno test",
+    "lint": "deno lint",
+    "fmt": "deno fmt"
+  }
+}
